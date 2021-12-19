@@ -1,0 +1,6 @@
+[submodule "vb/vb6.0"]
+	path = vb/vb6.0
+	url = https://gitee.com/pulpous/code-scanning-vb6.git
+[submodule "electron/vue2"]
+	path = electron/vue2
+	url = https://gitee.com/pulpous/code-scanning-electron-vue2.git
